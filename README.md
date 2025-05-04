@@ -43,3 +43,17 @@ This is an **Employee Management System** built using **.NET** technologies. The
 1. Clone the repository:
    ```bash
    git clone https://github.com/ParanovaFactory/Employee_Management.git
+
+---
+
+## 👤 Author
+
+**Sadık Berkay Karaduman**  
+📧 [karadumansadikberkay@gmail.com](mailto:karadumansadikberkay@gmail.com)  
+🔗 [GitHub – ParanovaFactory](https://github.com/ParanovaFactory)
+
+---
+
+## 📄 License
+
+MIT License — Feel free to use, modify, and contribute.
